@@ -1,7 +1,5 @@
 @echo off
 
-git clone https://github.com/procrastinando/Thin-Plate-Spline-Motion-Model.git
-cd Thin-Plate-Spline-Motion-Model
 conda create --name image-animation python=3.9.13 -y
 call conda activate image-animation
 :: Install PyTorch
