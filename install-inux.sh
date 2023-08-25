@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git clone https://github.com/procrastinando/Thin-Plate-Spline-Motion-Model.git
-cd Thin-Plate-Spline-Motion-Model
 conda create --name image-animation python=3.9.13 -y
 conda activate image-animation
 # Check if CUDA is installed
