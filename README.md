@@ -6,11 +6,15 @@ This is a fork of the original repository:
 
 There is a WebUI, as well as an automatic crop of images and videos to a square shape.
 
-### Automatic Installation
-First install Anaconda.
-Download the repository and run `install-windows.bat` for windows or `install-linux.sh` for a debian based OS.
+### 1.1 Automatic Installation
+First install Anaconda ang git. Then clone the repository:
+```
+git clone https://github.com/procrastinando/Thin-Plate-Spline-Motion-Model
+cd Thin-Plate-Spline-Motion-Model
+```
+Run `install-windows.bat` for windows or `install-linux.sh` for a debian based OS.
 
-### Manual Installation
+### 1.2. Manual Installation
 First install Anaconda, Then run the commands:
 ```
 git clone https://github.com/procrastinando/Thin-Plate-Spline-Motion-Model
@@ -31,5 +35,5 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-### Run the WebUI
+### 2. Run the WebUI
 Run `start-windows.bat` for windows or `start-linux.sh` for a debian based OS.
