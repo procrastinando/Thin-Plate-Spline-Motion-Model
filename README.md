@@ -2,7 +2,7 @@
 
 This is a fork of the original repository:
 
-[**BreadcrumbsThin-Plate-Spline-Motion-Model**]([https://arxiv.org/abs/2203.14367](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)) **
+[**Thin-Plate-Spline-Motion-Model**]([https://arxiv.org/abs/2203.14367](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)) **
 
 There is a WebUI, as well as an automatic crop of images and videos to a square shape.
 
